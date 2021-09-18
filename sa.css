@@ -1,0 +1,58 @@
+.card1 {
+  width: 500px;
+  height: 500px;
+  background-color: #020a2b;
+  margin-left: 30%;
+  border-radius: 10px;
+}
+
+.card1 img {
+  width: 300px;
+  height: 300px;
+  padding-right: 10%;
+  padding-left: 2%;
+  padding-top: 2%;
+}
+
+.card1 a {
+  position: relative;
+  top: 3%;
+  left: 4%;
+}
+
+.card1 .a2 {
+  position: relative;
+  top: 10%;
+  left: 10%;
+}
+
+.card1 .a3 {
+  position: relative;
+  top: 1%;
+  left: 16%;
+}
+
+.card1 .card2 {
+  position: relative;
+  top: 19%;
+  left: 2%;
+  width: 95%;
+  height: 80px;
+  background-color: #37fd25;
+  border-radius: 10px;
+  -webkit-transition: 1s;
+  transition: 1s;
+  -webkit-box-shadow: 0 0 5px 5px #fff12c;
+          box-shadow: 0 0 5px 5px #fff12c;
+}
+
+.card1 .card2:hover {
+  position: relative;
+  top: 19%;
+  left: 2%;
+  width: 95%;
+  height: 80px;
+  background-color: #fff9c3;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=sa.css.map */

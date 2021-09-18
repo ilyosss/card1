@@ -1,0 +1,56 @@
+
+ $bcolor:rgb(2, 10, 43);
+ .card1{
+    width: 500px;
+    height: 500px;
+    background-color: $bcolor;
+    margin-left: 30%;
+   border-radius: 10px;
+img{
+        width: 300px;
+        height: 300px;
+        padding-right: 10%;
+        padding-left: 2%;
+        padding-top: 2%;
+    }
+
+a{
+   position: relative;
+   top: 3%;  
+   left: 4%;
+}
+.a2{
+    position: relative;
+    top: 10%;  
+    left: 10%;
+}
+.a3{
+    position: relative;
+    top: 1%;  
+    left: 16%; 
+}
+
+
+    .card2{
+        position: relative;
+        top: 19%;
+        left: 2%;
+        width: 95%;
+        height: 80px;
+        background-color: rgb(55, 253, 37);
+        border-radius: 10px;
+        transition: 1s;
+        box-shadow: 0 0 5px 5px rgb(255, 241, 44);
+    }
+
+ .card2:hover{
+    position: relative;
+    top: 19%;
+    left: 2%;
+    width: 95%;
+    height: 80px;
+    background-color: rgb(255, 249, 195);
+    border-radius: 10px;
+ }
+}
+
